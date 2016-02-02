@@ -15,3 +15,5 @@ lesquels ont effectué 70 000 contributions permettant d'optimiser le code sourc
 L'application VLC est devenu multi-plateforme et peut être installée sur Windows,
 Windows Phone, OS X, Linux, Android, iOS mais aussi Chrome OS, FreeBSD, Solaris ou encore QNX..
 Au total l'application aurait été téléchargée 2 milliards de fois et disposerait de plusieurs centaines de millions d'utilisateurs.
+
+Source: http://www.clubic.com/
