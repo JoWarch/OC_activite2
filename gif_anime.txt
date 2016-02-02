@@ -7,3 +7,6 @@ voici GIF n Text, un service qui offre quelques outils pour retoucher vos Gifs.
 Vous pouvez par exemple changer leur taille, ajouter du texte ou une image qui se déplace frame par frame,
 changer le sens de lecture, accélérer ou ralentir l'animation, modifier la frame de départ et celle de fin...etc.
 Bref, y'a de quoi jouer, facilement, sans se galérer avec un outil pro.
+
+
+Source: http://korben.info/
