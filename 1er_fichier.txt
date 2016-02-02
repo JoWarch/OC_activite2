@@ -1,0 +1,17 @@
+
+VLC fête ses 35 ans
+
+L'équipe de VidéoLAN fête aujourd'hui les 15 ans de son lecteur multimédia, l'occasion de partager quelques chiffres.
+En 1996, Jean-Baptiste Kempf, aujourd'hui président de VideoLAN,
+avait lancé le projet universitaire Network 2000 et amorcé le développement de son client pour VideoLAN. Initialement,
+le logiciel devait pouvoir assurer la lecture de flux vidéos en streaming.
+Deux ans plus tard, VLC fut complémentent ré-écrit et la première contribution externe au code date du 8 août 1999 et contenait 21 275 lignes de code.
+
+Mais c'est la date du 1er février 2001 qu'a choisi de retenir Jean-Baptiste Kempf,
+laquelle correspond à la publication du logiciel sous licence publique GNU après avoir obtenu l'autorisation de la direction de l'Ecole Central de Paris. (voir lettre ci-dessous)
+
+Sur son blog personnel, l'homme explique que ces 15 dernières années, le projet a attiré 700 contributeurs,
+lesquels ont effectué 70 000 contributions permettant d'optimiser le code source.
+L'application VLC est devenu multi-plateforme et peut être installée sur Windows,
+Windows Phone, OS X, Linux, Android, iOS mais aussi Chrome OS, FreeBSD, Solaris ou encore QNX..
+Au total l'application aurait été téléchargée 2 milliards de fois et disposerait de plusieurs centaines de millions d'utilisateurs.
